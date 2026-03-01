@@ -1,0 +1,18 @@
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    margin:0;
+}
+
+#clock{
+    border:1px solid white;
+    border-radius: 25px;
+    padding:10px;
+    color:#17d4fe;
+    font-size:6rem;
+    font-family: 'Orbitron',sans-serif;
+    letter-spacing: 7px;
+}
